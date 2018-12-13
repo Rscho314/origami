@@ -1,0 +1,1 @@
+:- [origami_path(axioms)].
